@@ -20,6 +20,6 @@ func main() {
 		print(err)
 	}
 
-	fmt.Print(config)
+	fmt.Print(clientSet)
 
 }
